@@ -30,7 +30,7 @@ The dataset contains information on road accidents, including accident severity,
   ✅ Identified the *road type with the highest number of casualties*.  
 
 - *Distribution of Total Casualties by Road Surface Condition*  
-  ✅ Created a bar chart to visualize casualties across different *road surface conditions* (Dry, Wet, Snow, etc.).
+  ✅ Created a treemap to visualize casualties across different *road surface conditions* (Dry, Wet, Snow, etc.).
 
 - *Casualties by Area/Location and Day/Night Relation*  
   ✅ Analyzed the *relation between casualties by area (Urban/Rural)* and whether the accident happened during the *Day or Night*.
