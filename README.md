@@ -56,5 +56,12 @@ The dataset contains information on road accidents, including accident severity,
 ## Conclusion  
 This analysis provides a comprehensive understanding of the casualties resulting from road accidents by exploring different factors and identifying trends. These insights can help authorities and stakeholders implement better safety measures to reduce road accident casualties.
 
+### Connect with Me:
+- LinkedIn: https://www.linkedin.com/in/ana-maria-nastasiu/
+- Email: anazujar@gmail.com
+---
+
+⭐ If you like this project, don't forget to give it a *star*!
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
